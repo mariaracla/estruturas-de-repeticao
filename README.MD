@@ -231,12 +231,12 @@ Explicando:
 - Aqui, estamos dizendo: para cada número da ARRAY numeros, vai me mostrar no console numero * 2. E como o for... of sabe que é pra percorrer a array inteira, irá mostrar tudo.
 
 # Materiais de reforço (teoria e exercícios para praticar):
-- For
-https://www.youtube.com/watch?v=dPl3OTOOJwM
+#### For
+- https://www.youtube.com/watch?v=dPl3OTOOJwM
 
-- While e do...while
-https://www.devmedia.com.br/javascript-while-e-do-while/41015
+#### While e do...while
+- https://www.devmedia.com.br/javascript-while-e-do-while/41015
 
-- For...of
-https://www.devmedia.com.br/javascript-for-for-in-for-of/41018#2 
-https://www.youtube.com/watch?v=HFG_p4K2MAc 
+#### For...of
+- https://www.devmedia.com.br/javascript-for-for-in-for-of/41018#2 
+- https://www.youtube.com/watch?v=HFG_p4K2MAc 
