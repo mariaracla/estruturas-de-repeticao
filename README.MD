@@ -9,7 +9,7 @@ Podemos chamar também de Loop, Laço ou método de iteração.
 
 ## For
 Estrutura:
-- for (expressaoInicial; condição; incremento) {
+for (expressaoInicial; condição; incremento) {
     código aqui;
   }
 
