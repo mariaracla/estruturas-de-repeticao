@@ -8,12 +8,12 @@ Podemos chamar também de Loop, Laço ou método de iteração.
 - for... of
 
 ## For
-- Estrutura:
- for (expressaoInicial; condição; incremento) {
+Estrutura:
+- for (expressaoInicial; condição; incremento) {
     código aqui;
   }
 
-- Exemplo:
+Exemplo:
 
 for (let i = 0; i <= 10; i++) {}
 
