@@ -10,11 +10,11 @@ Podemos chamar também de Loop, Laço ou método de iteração.
 ## For
 
 #### Estrutura:
-
+```jsx
 for (expressaoInicial; condição; incremento) {
     código aqui;
   }
-
+```
 #### Exemplo:
 
 for (let i = 0; i <= 10; i++) {}
@@ -90,11 +90,13 @@ for(let i = 0; i < numeros.length; i++){
 ```
 
 ## While
-Estrutura:
+#### Estrutura:
+ ```jsx
  while (condição) {
     código aqui;
     incremento
   }
+  ```
 ```jsx
 let i = 0; // sempre criamos a variável fora
   while(i <=3) {
@@ -150,11 +152,13 @@ O do...while também repete até que a condição seja falsa.
 Mas, diferente do while, ele executa o código pelo menos 1 vez, porque primeiro vem o do (faça).
 Depois de executar 1 vez, ele confere a condição e vê se continua ou não. 
 
-- Estrutura: 
+#### Estrutura: 
+  ```jsx
   do {
     código aqui;
   } while (condição);
 
+```
 ```jsx
 
 let contador = 0; // variaveis declaradas fora também
@@ -197,11 +201,12 @@ Explicando:
 Ele vai muito bem em arrays. Ele já sabe que é pra começar no primeiro elemento dela (0),
 e que é pra percorrer ela inteira, por isso não precisa do incremento (diferente do for, while etc)
 
-- Estrutura:
-
+#### Estrutura:
+```jsx
 for (variavel of iteravel) {
     declaração
   }
+  ```
 ```jsx
 let times = ['Vasco', 'Barcelona', 'PSG', 'Palmeiras']
 
